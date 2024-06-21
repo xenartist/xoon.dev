@@ -10,5 +10,3 @@
 
 -- site maintained by [xen_artist](https://x.com/xen_artist)
 
-
-
