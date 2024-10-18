@@ -12,12 +12,16 @@
 
 * CPU/GPU mining for solXEN & Tokens on Solana Blockchain
 
+![](img/unmineable-solXEN-flowchart.jpg)
+
 
 # [XENBLOCKS Web Miner](https://web.xoon.dev/)
 
 ![GitHub stars](https://img.shields.io/github/stars/xenartist/xenblocks-webminer?style=flat) ![GitHub forks](https://img.shields.io/github/forks/xenartist/xenblocks-webminer?style=flat) ![GitHub license](https://img.shields.io/github/license/xenartist/xenblocks-webminer?style=flat)
 
-* Mining XENBLOCKS everywhere
+* Mining [XENBLOCKS](https://xenblocks.io) everywhere
+
+![](img/xenblocks-webminer.png)
 
 
 # [x1.wiki](https://x1.wiki/)
@@ -26,7 +30,7 @@
 
 * A Simple Wiki Page of X1 Blockchain/XEN Crypto Ecosystem
 
-
+![](img/x1-wiki.png)
 
 
 
