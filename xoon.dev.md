@@ -5,6 +5,8 @@
 
 * Master x1 like a pro (simple gui for x1/solana/svm hardcore operations)
 
+![](img/xoon-flowchart.png)
+
 
 # [unmineable-solXEN](https://github.com/xenartist/unmineable-solXEN)
 
